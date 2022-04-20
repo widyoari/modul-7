@@ -1,0 +1,17 @@
+{
+    "name": "lenovo/oop-praktikum-7",
+    "description": "Praktikum 7 Pemrograman Bermasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\OopPraktikum7\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suendri",
+            "email": "suendri@uinsu.ac.id"
+        }
+    ],
+    "require": {}
+}
